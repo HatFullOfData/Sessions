@@ -15,3 +15,4 @@ This session will provide you with a variety of tips and techniques to effective
 | Conference | Date | Presentation |
 | --- | --- | --- |
 | SQLBits 2025 | 18-21 June 2025 | |
+

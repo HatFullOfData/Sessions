@@ -1,0 +1,19 @@
+Color Tag
+Compliance Asset Id
+Content Type
+Modified
+Created By
+Modified By
+Version
+Attachments
+Edit
+Type
+Item Child Count
+Folder Child Count
+Label setting
+Retention label
+Retention label Applied
+Label applied by
+Item is a Record
+App Created By
+App Modified By

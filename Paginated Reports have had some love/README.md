@@ -8,8 +8,14 @@ In this session, using business cases we will walk through how paginated reports
 
 [Sessionize](https://sessionize.com/s/lauragb/paginated-reports-have-had-some-love/134958)
 
+## Hat Full of Data Related Content
+
+* [Paginated Report Resources](https://hatfullofdata.blog/paginated-report-resources/)
+* [Paginated Reports YouTube Playlist](https://www.youtube.com/playlist?list=PLclDw3xU_tI5bypr74FnLuLGTyuTfKpV1)
+
 ## Calendar
 
 | Conference | Date | Presentation |
 | --- | --- | --- |
-| Devon and Cornwall User Group | 24 June 2025 | [Slides]() |
+| Devon and Cornwall User Group | 24 June 2025 | |
+| ECS 2025 | 26-28 May 2025 | [Slides](<2025 European Collab Summit Paginated Reports have had some Love.pdf>)

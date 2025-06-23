@@ -10,6 +10,10 @@ This session will provide you with a variety of tips and techniques to effective
 
 [Sessionize Link](https://sessionize.com/s/lauragb/dynamic-power-query/141386)
 
+## Resources
+
+The Power Query demos all work in Power BI, Excel and online Dataflows. The zip file  [Resources.zip](Resources.zip) contains the Data files, Power BI report, Excel and Dataflow template. 
+
 ## Hat Full of Data Related Posts
 
 * [Fixing Missing Columns Dynamically](https://hatfullofdata.blog/power-query-fixing-missing-columns-dynamically/)

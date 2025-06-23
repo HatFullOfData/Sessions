@@ -1,6 +1,16 @@
 # Enhancing Microsoft Fabric with Power Automate
 
-## Description
+This session has developed over the past 18 months as Co-pilot has developed and taken over from AI Builder and RPA. Really hoping this session gets retired if / when a Microsoft Fabric connector for Power Automate becomes available.
+
+## New Description
+
+Microsoft Fabric can ingest, transform, store and then let the business analyse the data to make those important data driven decisions. The toolset includes ways to orchestrate and schedule the data journey from raw to a conformed layer and onto a reporting layer. So what does Power Automate bring to the table to enhance this?
+
+Lets start with Co-Pilot and how it can extract data from multiple files and websites to prepare a file of data and triggering this from Power Automate. Then we will investigate how to move that file to OneLake and trigger a Pipeline, all from Power Automate. If time allows there will be other demos
+
+Fun filled demo-rich session from experts in the Microsoft Fabric and Power Platform stack. Every demo will have blogs and YouTube videos supporting them.
+
+## Old Description
 
 Microsoft Fabric can ingest, transform, store and then let the business analyse the data to make those important data driven decisions. The toolset includes ways to orchestrate and schedule the data journey from raw to a conformed layer and onto a reporting layer. So what does Power Automate bring to the table to enhance this?
 
@@ -10,10 +20,11 @@ Fun filled demo-rich session from experts in the Microsoft Fabric and Power Plat
 
 ## Hat Full of Data Related Posts
 
-* 
+* [Power Automate - Save a file to OneLake](https://hatfullofdata.blog/power-automate-save-a-file-to-onelake-lakehouse/)
+* [Power Automate - Trigger a Microsoft Fabric Data Pipeline](https://hatfullofdata.blog/trigger-microsoft-fabric-data-pipeline/)
 
 ## Calendar
 
 | Conference | Date | Presentation |
 | --- | --- | --- |
-| SQLBits 2025 | 18-21 June 2025 | [Slides](<SQLBits 2025 Dynamic Power Query.pdf>) |
+| SQLBits 2025 | 18-21 June 2025 |[Slides](<SQLBits 2025 Enhance Microsoft Fabric with Power Automate.pdf>) |

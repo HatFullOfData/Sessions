@@ -10,7 +10,7 @@ This session will provide you with a variety of tips and techniques to effective
 
 [Sessionize Link](https://sessionize.com/s/lauragb/dynamic-power-query/141386)
 
-## Related Posts
+## Hat Full of Data Related Posts
 
 * [Fixing Missing Columns Dynamically](https://hatfullofdata.blog/power-query-fixing-missing-columns-dynamically/)
 * [Replace Values for Whole Table](https://hatfullofdata.blog/power-query-replace-values-for-whole-table/)

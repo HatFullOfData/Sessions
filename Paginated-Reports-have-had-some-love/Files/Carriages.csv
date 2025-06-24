@@ -1,7 +1,7 @@
-﻿CarriageID,Carriage_Name,Type
-1,Amber,Passenger
-2,Beryl,Passenger
-3,Coral,Catering
-4,Diamond,Passenger
-5,Emerald,Passenger
-6,Feldspar,Luggage
+﻿CarriageID,Carriage_Name,Type,Manager
+1,Amber,Passenger,laura@graham-brown.co.uk
+2,Beryl,Passenger,dan@graham-brown.co.uk
+3,Coral,Catering,chef@graham-brown.co.uk
+4,Diamond,Passenger,ash@graham-brown.co.uk
+5,Emerald,Passenger,peter@graham-brown.co.uk
+6,Feldspar,Luggage,steward@graham-brown.co.uk

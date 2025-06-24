@@ -13,9 +13,15 @@ In this session, using business cases we will walk through how paginated reports
 * [Paginated Report Resources](https://hatfullofdata.blog/paginated-report-resources/)
 * [Paginated Reports YouTube Playlist](https://www.youtube.com/playlist?list=PLclDw3xU_tI5bypr74FnLuLGTyuTfKpV1)
 
+## Microsoft Resources
+
+* [Power Query in Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder/connect-snowflake-databricks-power-query-online?wt.mc_id=DX-MVP-5003563)
+* [Paginated Reports in Service](https://learn.microsoft.com/en-us/power-bi/paginated-reports/web-authoring/get-started-paginated-formatted-table?wt.mc_id=DX-MVP-5003563)
+* [Dynamic Subscriptions](https://learn.microsoft.com/en-us/power-bi/collaborate-share/dynamic-subscriptions?wt.mc_id=DX-MVP-5003563)
+
 ## Calendar
 
 | Conference | Date | Presentation |
 | --- | --- | --- |
-| Devon and Cornwall User Group | 24 June 2025 | |
+| Devon and Cornwall User Group | 24 June 2025 |[Slides](<Devon and Cornwal 2025 - Paginated reports have had some Love.pdf>) |
 | ECS 2025 | 26-28 May 2025 | [Slides](<2025 European Collab Summit Paginated Reports have had some Love.pdf>)

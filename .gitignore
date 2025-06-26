@@ -1,3 +1,6 @@
 # Ignore PowerPoint presentations
 *.pptx
 *.pptm
+
+# Ignore folder of SlideDecks
+*\Slide Decks\*.*

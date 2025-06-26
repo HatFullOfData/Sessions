@@ -2,5 +2,5 @@
 *.pptx
 *.pptm
 
-# Ignore folder of SlideDecks
-*\Slide Decks\*.*
+# Ignore desktop.ini files
+desktop.ini

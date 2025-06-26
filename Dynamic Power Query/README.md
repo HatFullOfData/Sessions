@@ -21,7 +21,7 @@ The Power Query demos all work in Power BI, Excel and online Dataflows. The zip 
 
 ## Calendar
 
-| Conference | Date | Presentation |
+| Event | Date | Presentation |
 | --- | --- | --- |
 | SQLBits 2025 | 18-21 June 2025 | [Slides](<SQLBits 2025 Dynamic Power Query.pdf>) |
 

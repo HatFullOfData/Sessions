@@ -25,7 +25,7 @@ Fun filled demo-rich session from experts in the Microsoft Fabric and Power Plat
 
 ## Calendar
 
-| Conference | Date | Presentation |
+| Event | Date | Presentation |
 | --- | --- | --- |
 | SQLBits 2025 | 18-21 June 2025 |[Slides](<SQLBits 2025 Enhance Microsoft Fabric with Power Automate.pdf>) |
 | ECS 2025 | 26-28 May 2025 | [Slides](<2025 European Collab Summit - Enhancing Microsoft Fabric with Power Automate.pdf>) |

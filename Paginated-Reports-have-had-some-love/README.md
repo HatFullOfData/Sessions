@@ -21,7 +21,7 @@ In this session, using business cases we will walk through how paginated reports
 
 ## Calendar
 
-| Conference | Date | Presentation |
+| Event | Date | Presentation |
 | --- | --- | --- |
 | Devon and Cornwall User Group | 24 June 2025 |[Slides](<Devon and Cornwal 2025 - Paginated reports have had some Love.pdf>) |
 | ECS 2025 | 26-28 May 2025 | [Slides](<2025 European Collab Summit Paginated Reports have had some Love.pdf>)

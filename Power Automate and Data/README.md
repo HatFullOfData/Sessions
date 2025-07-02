@@ -14,12 +14,13 @@ Lots of demos and laughter
 * [Get data from a semantic model](https://hatfullofdata.blog/power-automate-get-data-from-a-power-bi-dataset/)
 * [Trigger Microsoft Fabric Pipeline](https://hatfullofdata.blog/trigger-microsoft-fabric-data-pipeline/)
 
-## Microsoft References
+## Other References
 
-* [Power Automate API Limits](https://learn.microsoft.com/en-us/power-platform/admin/api-request-limits-allocations?wt.mc_id=DX-MVP-5003563)
+* [Filter Data in Power Automate - Matthew Devaney](https://www.matthewdevaney.com/how-to-filter-excel-table-rows-in-power-automate-text-numbers-dates/)
+* [Power Automate API Limits - Microsoft](https://learn.microsoft.com/en-us/power-platform/admin/api-request-limits-allocations?wt.mc_id=DX-MVP-5003563)
 
 ## Calendar
 
 | Event | Date | Presentation |
 | --- | --- | --- |
-| South Coast User Group | 1st July 2025 | |
+| South Coast User Group | 1st July 2025 |[Slides](<Slide Decks/2025-07-01 Data and Power Automate the right way.pdf>) |

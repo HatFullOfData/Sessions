@@ -6,6 +6,7 @@ This is me trying to be organised and copying speakers I admire who publish slid
 
 | Date | Event | Sessions |
 | --- | --- | --- |
+| 2025-07-03 | D365 & PP UG Virtual Event! |[Microsoft Fabric Introduction](<Microsoft Fabric Introduction>) |
 | 2025-07-01 | South Coast User Group | [Data and Power Automate the Right Way](<Power Automate and Data>) |
 | 2025-06-24 | Devon and Cornall Power BI group | [Paginated Reports have had some love](Paginated-Reports-have-had-some-love) |
 | 2025-06-18 | SQLBits 2025 | [Dynamic Power Query](<Dynamic Power Query>)  <br>[Enhancing Microsoft Fabric with Power Automate](<Enhancing Fabric with Power Automate>) |

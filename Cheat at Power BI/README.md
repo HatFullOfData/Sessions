@@ -6,15 +6,22 @@ A picture paints a thousand words, and a graph is a colourful picture of data. P
 
 So how do we cheat? What are the shortcuts to still be doing best practice but keeping it simple and within the Power BI pro license? In this session we will build a report from scratch using all the tips and tricks to make it as simple as we can to paint those data pictures to tell those thousand words about your data.
 
+## Resources
+
+As part of the demos I recommend the use of backgrounds and themes. Files in this repo include backgrounds and themes matched to the D365PPUG branding.
+
 ## References
 
+### Power BI General
+* [Business Adoption](https://hatfullofdata.blog/power-bi-adoption-in-your-business/)
+* [Report Cost](https://hatfullofdata.blog/power-bi-adoption-in-your-business/)
+
 ### Backgrounds
-* https://tools.powerbi.tips/themes/gallery
-* https://alluringbi.com/2019/10/21/background-concepts-for-power-bi/
+* [Power BI Tips Gallery](https://tools.powerbi.tips/themes/gallery)
+* [Alluring BI - Backgrounds](https://alluringbi.com/2019/10/21/background-concepts-for-power-bi/)
 
 ### TMDL
-* https://hatfullofdata.blog/tmdl-create-a-calendar/
-
+* [TMDL Calendar](https://hatfullofdata.blog/tmdl-create-a-calendar/)
 
 ## Calendar
 | Event | Date | Presentation |

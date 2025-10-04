@@ -11,5 +11,12 @@ Plenty of demos, audience participation and time for questions.
 
 ## Resources
 
+* Blog posts from Laura are coming!
 * [Intro Video](https://www.youtube.com/watch?v=CUQRoR0yz8g)
 * [Walk through video](https://www.youtube.com/watch?v=t51GVWk8B_g)
+
+## Calendar
+
+| Event | Date | Presentation |
+| --- | --- | --- |
+| FabFest 2025 | 2 October 2025 | [Slides](<Slide Decks/FabFest2025.pdf>)|

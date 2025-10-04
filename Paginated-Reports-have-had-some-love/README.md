@@ -23,5 +23,6 @@ In this session, using business cases we will walk through how paginated reports
 
 | Event | Date | Presentation |
 | --- | --- | --- |
-| Devon and Cornwall User Group | 24 June 2025 |[Slides](<Devon and Cornwal 2025 - Paginated reports have had some Love.pdf>) |
-| ECS 2025 | 26-28 May 2025 | [Slides](<2025 European Collab Summit Paginated Reports have had some Love.pdf>)
+| DataMinds | 6-8 Oct 2025 | [Slides](<Slide Decks/2025-10-08 dataMindsConnect2025 Paginated Reports have had some love.pdf>) |
+| Devon and Cornwall User Group | 24 June 2025 |[Slides](<Slide Decks/Devon and Cornwal 2025 - Paginated reports have had some Love.pdf>) |
+| ECS 2025 | 26-28 May 2025 | [Slides](<Slide Decks/2025 European Collab Summit Paginated Reports have had some Love.pdf>) |

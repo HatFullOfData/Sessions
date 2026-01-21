@@ -15,6 +15,8 @@ Plenty of demos, audience participation and time for questions.
 * [Intro Video](https://www.youtube.com/watch?v=CUQRoR0yz8g)
 * [Walk through video](https://www.youtube.com/watch?v=t51GVWk8B_g)
 * [Translytical Flow Gallery](https://community.fabric.microsoft.com/t5/Translytical-Task-Flow-Gallery/bd-p/pbi_translyticalgallery)
+* [Setup Demo Instructions](Setup.md)
+* [Final Demo UDF Code](<Function Code.md>)
 
 ## Calendar
 

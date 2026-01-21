@@ -11,7 +11,7 @@ Create a Fabric Database and run the following to create three tables
 ``` SQL
 CREATE TABLE Calendar (
     Date DATE PRIMARY KEY,
-    Date_String VARCHAR(10) NOT NULL
+    Date_String VARCHAR(10) NOT NULL,
     Year INT NOT NULL,
     MonthNumber INT NOT NULL,
     MonthName VARCHAR(20) NOT NULL

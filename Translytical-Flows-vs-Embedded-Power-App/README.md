@@ -14,9 +14,11 @@ Plenty of demos, audience participation and time for questions.
 * Blog posts from Laura are coming!
 * [Intro Video](https://www.youtube.com/watch?v=CUQRoR0yz8g)
 * [Walk through video](https://www.youtube.com/watch?v=t51GVWk8B_g)
+* [Translytical Flow Gallery](https://community.fabric.microsoft.com/t5/Translytical-Task-Flow-Gallery/bd-p/pbi_translyticalgallery)
 
 ## Calendar
 
 | Event | Date | Presentation |
 | --- | --- | --- |
+| M365 Con | 21 January 2026 |  [Slides](<Slide Decks/2026-01-21 M365 Con.pdf>) |
 | FabFest 2025 | 2 October 2025 | [Slides](<Slide Decks/FabFest2025.pdf>)|

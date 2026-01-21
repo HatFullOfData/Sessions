@@ -6,8 +6,9 @@ This is me trying to be organised and copying speakers I admire who publish slid
 
 | Date | Event | Sessions |
 | --- | --- | --- |
+| 2026-01-20 | M365 Con | [Translytical Flows vs Power App](Translytical-Flows-vs-Embedded-Power-App) |
 | 2025-10-08 | DataMinds | [Paginated Reports have had some love](Paginated-Reports-have-had-some-love) |
-| 2025-10-02 | FabFest | [Translytical Flows vs Power App](Translytical-Flows-vs-Embedded-Power-App)
+| 2025-10-02 | FabFest | [Translytical Flows vs Power App](Translytical-Flows-vs-Embedded-Power-App) |
 | 2025-09-11 | D365 PPUG Bristol | [Cheat at Power BI](<Cheat at Power BI>) |
 | 2025-09-10 | D365 PPUG UK Manchester | [Cheat at Power BI](<Cheat at Power BI>) |
 | 2025-07-03 | D365 & PP UG Virtual Event! |[Microsoft Fabric Introduction](<Microsoft Fabric Introduction>) |

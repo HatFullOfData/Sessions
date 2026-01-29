@@ -17,4 +17,4 @@ If you're a functional consultant or system customizer who works frequently with
 
 | Event | Date | Presentation |
 | --- | --- | --- |
-| Cloud Tech Tallinn | 29-30 January 2026 |  |
+| Cloud Tech Tallinn | 29-30 January 2026 | [Slides](url) |

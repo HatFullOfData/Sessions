@@ -23,4 +23,4 @@ Plenty of demos, audience participation and time for questions.
 | Event | Date | Presentation |
 | --- | --- | --- |
 | M365 Con | 21 January 2026 |  [Slides](<Slide Decks/2026-01-21 M365 Con.pdf>) |
-| FabFest 2025 | 2 October 2025 | [Slides](<Slide Decks/FabFest2025.pdf>)|
+| FabFest 2025 | 2 October 2025 | [Slides](<Slide Decks/FabFest2025.pdf>) |

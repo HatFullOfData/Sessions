@@ -4,6 +4,12 @@
 
 How can we get co-pilot to script the building of the data for our demos from start to end
 
+## Calendar
+
+| Event | Date | Presentation |
+| --- | --- | --- |
+| Devon and Cornwall Power BI User Group | 3 March 2026 |  [Slides](<Slide Decks/2026-01-21 M365 Con.pdf>) |
+
 ## Demos
 
 ### Create Repo Prompt

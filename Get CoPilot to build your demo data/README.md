@@ -8,7 +8,7 @@ How can we get co-pilot to script the building of the data for our demos from st
 
 | Event | Date | Presentation |
 | --- | --- | --- |
-| Devon and Cornwall Power BI User Group | 3 March 2026 |  [Slides](<Slide Decks/2026-01-21 M365 Con.pdf>) |
+| Devon and Cornwall Power BI User Group | 3 March 2026 |  [Slides](<2026-03-03 Copilot build my demo data.pdf>) |
 
 ## Demos
 

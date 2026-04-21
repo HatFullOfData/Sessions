@@ -1,0 +1,6 @@
+# Ignore PowerPoint presentations
+*.pptx
+*.pptm
+
+# Ignore desktop.ini files
+desktop.ini

@@ -1,0 +1,11 @@
+﻿MenuItemID,Name,Description,Course,Vegan,Gluten Free
+1,Jerusalem artichoke soup,Whipped Périgord truffle vegan cream,Starter,True,True
+2,Gin-and-tonic-cured carrot,"Carrot and juniper dressing, winter leaves",Starter,True,True
+3,Festive wellington,"Smoked olive oil roasties, roasted baby parsnips, port jus",Main,True,True
+4,Spiced chocolate delight,"Caramel confetti, cranberry gel, ginger feuilletine crumble",Desert,True,True
+5,Great British vegan cheeseboard,"Clementine and fig chutney, cranberry and walnut loaf",Desert,True,False
+6,Cascading Chocolate Log,Served with Cranberry compote,Desert,True,False
+7,Norfolk Bronze Turkey with pancetta and chestnuts,"Braised red cabbage, honey roast parsnips, glazed sprouts, roasted potatoes, red currant sauce",Main,False,True
+8,Fillet of South Downs Beef Royale,"Braised red cabbage, honey roast parsnips, glazed sprouts, bone marrow scalloped potatoes, red wine sauce",Main,False,True
+9,Smoked Trout Salad,Golden trout served with green salad and potato flatbread,Starter,False,False
+10,Hasselback butternut squash,"served with chestnuts, pomegranate and tahini",Main,True,True

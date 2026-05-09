@@ -34,7 +34,7 @@ Rather than using GitHub lets just work in Visual Studio code. Use the panel on 
 
 ```
 Starting a project for running a training course. I need demo data that needs transforming into a POwer BI report.
-I need csv files for customers, products, calendar and orders. The orders should be in seperate files that need combining.
+I need csv files for customers, products, calendar and orders. The orders should be in separate files that need combining.
 I need basic examples of transformations included and notes to help me run the training course
 ```
 

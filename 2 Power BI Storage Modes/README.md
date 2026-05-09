@@ -17,4 +17,5 @@ If you're a functional consultant or system customizer who works frequently with
 
 | Event | Date | Presentation |
 | --- | --- | --- |
+| European Biz Apps Summit | 5-7 May 2026 | [Slides](<2 Power BI Storage Modes, 1 Dataverse - ECS 2026.pdf>) |
 | Cloud Tech Tallinn | 29-30 January 2026 | [Slides](2%20Power%20BI%20Storage%20Modes%20-%20JG%20and%20LGB.pdf) |

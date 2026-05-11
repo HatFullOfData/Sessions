@@ -10,4 +10,4 @@ Lots of demos and resources to take away to have a go yourself
 
 | Event | Date | Presentation |
 | --- | --- | --- |
-| European Biz Apps Summit | 5-7 May 2026 |  |
+| European Biz Apps Summit | 5-7 May 2026 | [Slides](<ECS 2026 Activator and Power Automate.pdf>) |

@@ -1,0 +1,24 @@
+ProductKey,ProductName,Category,SubCategory,AgeGroup,UnitPrice,UnitCost
+1,Bucket & Spade Set,Beach,Beach Toys,All,6.99,2.50
+2,Beach Towel,Beach,Beachwear,All,14.99,6.00
+3,Sun Cream SPF50,Beach,Sun Care,All,8.99,3.50
+4,Inflatable Lilo,Beach,Inflatables,All,12.99,4.50
+5,Beach Ball,Beach,Beach Toys,All,4.99,1.50
+6,Windbreak,Beach,Beach Shelter,All,24.99,10.00
+7,Bodyboard,Beach,Boards,All,19.99,8.00
+8,Beach Parasol,Beach,Beach Shelter,All,29.99,12.00
+9,Flip Flops,Beach,Beachwear,All,9.99,3.50
+10,Snorkel Set,Beach,Water Toys,All,16.99,6.50
+11,Adult Wetsuit 3/2mm,Wetsuit,Adult,Adult,89.99,40.00
+12,Adult Wetsuit 5/4mm,Wetsuit,Adult,Adult,129.99,60.00
+13,Children's Wetsuit 3/2mm,Wetsuit,Children,Child,49.99,22.00
+14,Children's Shorty Wetsuit,Wetsuit,Children,Child,34.99,15.00
+15,Wetsuit Boots,Wetsuit,Accessories,All,24.99,9.00
+16,Wetsuit Gloves,Wetsuit,Accessories,All,19.99,7.00
+17,Foam Surfboard 7ft,Surfboard,Soft-top,All,179.99,90.00
+18,Foam Surfboard 8ft,Surfboard,Soft-top,All,199.99,100.00
+19,Beginner Soft-top Board,Surfboard,Soft-top,All,249.99,120.00
+20,Shortboard,Surfboard,Performance,Adult,449.99,230.00
+21,Longboard,Surfboard,Performance,Adult,599.99,300.00
+22,Fish Surfboard,Surfboard,Performance,Adult,499.99,250.00
+23,Kids' Mini Surfboard,Surfboard,Soft-top,Child,99.99,45.00

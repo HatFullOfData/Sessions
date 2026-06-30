@@ -6,6 +6,8 @@ This is me trying to be organised and copying speakers I admire who publish slid
 
 | Date | Event | Sessions |
 | --- | --- | --- |
+| 2026-07-07 | South Coast User Group | [Lets Build a Data Agent](<Lets Build a Data Agent>)
+| 2026-06-11 | Experts Live | Fabric Workshop <br> Data verse Power BI and Fabric |
 | 2026-05-29 | Sheffield Data Analytics User Group | [Translytical Flows vs Power App](Translytical-Flows-vs-Embedded-Power-App) |
 | 2026-05-05 | European Biz Apps Summit | [Copilot Architecture Workshop](<Copilot Architecture Workshop>)<br>[Microsoft Fabric Activator and Power Automate - a great combination](<Microsoft Fabric Activator and Power Automate>)<br>[2 Power BI Storage Modes](<2 Power BI Storage Modes>)<br>[Low Code, High Chaos: Taming the Shadow IT Beast](<Low Code High Chaos>) |
 | 2026-04-22 | SQLBits | [Microsoft Fabric and the Mess of SharePoint](<Fabric and the Mess of SharePoint>) <br> [Copilots, Chaos and Control: Getting Real About AI Productivity](<Copilots Chaos and Control>)|

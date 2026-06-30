@@ -8,7 +8,7 @@ Starting from an existing data model, I'll show you how to ground an agent in yo
 
 ## Resources
 
-- Instructions to replicate the demos
+- [Instructions to replicate the demos](Setup.md)
 - [Microsoft Learn Module to get Started with Data Agents](https://learn.microsoft.com/en-us/training/modules/implement-fabric-data-agents/?wt.mc_id=DX-MVP-5003563)
 - [Microsoft Documentation on Data Agents](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent?wt.mc_id=DX-MVP-5003563)
 
